@@ -9,14 +9,14 @@
 
 ### 💻 About Me  
 - 🎨 A passionate **Designer & Full Stack Developer** exploring the intersection of creativity and code.  
-- 🐍 Currently diving deep into **Django**, **React**, and modern **UI/UX design**.  
-- 🧠 Always curious about blending **tech and storytelling** to build engaging digital experiences.  
+- 💫 Exploring the space where creativity meets technology - designing, building, and breaking things to make them better.
+- 🧠 Always chasing that perfect balance between creativity, performance, and pure chaos.
 
 ---
 
 ### ⚡ Fun Facts  
 - ✏️ I’m a **sketch artist** who often finds design inspiration from everyday life.  
-- 💻 I enjoy turning abstract ideas into interactive, visually appealing designs — whether on Figma or in code.
+- 💻 I enjoy turning abstract ideas into interactive, visually appealing designs - whether on Figma or in code.
 
 ---
 
