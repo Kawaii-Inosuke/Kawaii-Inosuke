@@ -16,7 +16,7 @@
 
 ### ⚡ Fun Facts  
 - ✏️ I’m a **sketch artist** who often finds design inspiration from everyday life.  
-- 💡 I believe **good design speaks louder than words** — it tells stories without saying a thing.
+- 💻 I enjoy turning abstract ideas into interactive, visually appealing designs — whether on Figma or in code.
 
 ---
 
