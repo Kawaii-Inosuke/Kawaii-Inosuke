@@ -20,9 +20,16 @@
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Skills & Tools
+
+**Languages I Code In:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,python,java,react,django,mysql,html,css,js,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,django,mysql" />
+</p>
+
+**Tools & Platforms:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,git,vscode,linux" />
 </p>
 
 ---
@@ -55,5 +62,5 @@
 <p align="center">
   <img src="https://github.com/Kawaii-Inosuke/Kawaii-Inosuke/blob/main/assets/insouke_eat.gif" width="220" alt="Inosuke Eating"/>
   <br/>
-  <em>Fueling up before the next creative sprint 🍜 & code adventure 💻</em>
+  <em>Fueling up before the next creative sprint 🍜 & development adventure 💻</em>
 </p>
