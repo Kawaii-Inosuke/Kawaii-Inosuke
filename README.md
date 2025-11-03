@@ -8,7 +8,7 @@
 ---
 
 ### 💻 About Me  
-- 🎨 A passionate **Designer & Full Stack Developer** exploring the intersection of creativity and code.  
+- 🎨 A passionate **Developer & Designer** exploring the intersection of creativity and code.  
 - 💫 Exploring the space where creativity meets technology - designing, building, and breaking things to make them better.
 - 🧠 Always chasing that perfect balance between creativity, performance, and pure chaos.
 
